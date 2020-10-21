@@ -1,2 +1,2 @@
 # sphere_ml
-домашки по курсу мл техносферы
+01. My knn classifier
